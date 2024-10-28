@@ -6,6 +6,7 @@ Con esto en mente, reflexioné sobre lo importante que es detectar temprano cual
 
 El conjunto de datos incluye todo tipo de discapacidades: movilidad, auditiva, motora, intelectual, autismo, y trastornos graves de conducta. Sin embargo, decidí centrarme en las discapacidades neurológicas, como el autismo, las discapacidades intelectuales, y los trastornos graves de conducta.
 
-Por último, los datos que estoy utilizando provienen del Ministerio de Educación de España: https://www.educacionyfp.gob.es/servicios-al-ciudadano/estadisticas/no-universitaria/alumnado/matriculado.html. Este conjunto de datos ofrece un registro detallado de las plazas asignadas para educación ordinaria y especial, abarcando edades de 3 a 18 años.
+Por último, los datos que estoy utilizando provienen del Ministerio de Educación de España: https://www.educacionyfp.gob.es/servicios-al-ciudadano/estadisticas/no-universitaria/alumnado/matriculado.html.
+Este conjunto de datos ofrece un registro detallado de las plazas asignadas para educación ordinaria y especial, abarcando edades de 3 a 18 años.
 
-Informar que en archivo existen celdas sin ejecutar por el gran tamaño de los gráficos de mapasnacionales que corresponden a cada una de las discapacidades. Es por ello que se puede descargar y así ejecutar todo el código. 
+Informar que en archivo existen celdas sin ejecutar por el gran tamaño de los gráficos de mapas nacionales que corresponden a cada una de las discapacidades. Es por ello que se puede descargar y así ejecutar todo el código. 
